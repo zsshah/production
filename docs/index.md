@@ -18,7 +18,7 @@ Join from PC, Mac, Linux, iOS or Android: [https://IU.zoom.us/j/865253152](https
 
 # Current Meeting Minutes
 
-Are available at this [Link](https://github.com/opensciencegrid/production/blob/master/docs/WeeklyMinutes.md)
+Are available at this [Link](https://opensciencegrid.github.io/production/docs/WeeklyMinutes.md)
 
 For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.grid.iu.edu/bin/view/Production/WeeklyProductionMeetings)
 
