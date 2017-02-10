@@ -5,7 +5,7 @@
 OSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.
 
 - Current OSG Statistics
-For a current view of OSG Production See: [Monitoring Display](https://display.opensciencegrid.org)
+For a current view of OSG Production See: [Monitoring Display](http://display.grid.iu.edu/)
 
 - Weekly Production Meetings
    - 4:00 PM Eastern (3:00 PM Central)
