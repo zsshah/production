@@ -1,6 +1,6 @@
 # OSG Production
 
-- Welcome to OSG Production 
+Welcome to OSG Production 
 
 OSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.
 
@@ -11,6 +11,13 @@ For a current view of OSG Production See: [Monitoring Display](http://display.gr
 # Weekly Production Meetings
 
 4:00 PM Eastern (3:00 PM Central)
+
 Join from PC, Mac, Linux, iOS or Android: [https://IU.zoom.us/j/865253152](https://IU.zoom.us/j/865253152)
+
 (US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#
+
+# Current Meeting Minutes
+
+Are available at this [Link](WeeklyMinutes.md)
+For Older Minutes Please Visit [Archive](https://twiki.grid.iu.edu/bin/view/Production/WeeklyProductionMeetings)
 
