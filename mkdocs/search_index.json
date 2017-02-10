@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "OSG Production\n\n\n\n\nWelcome to OSG Production \n\n\n\n\nOSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.\n\n\n\n\n\n\nCurrent OSG Statistics\nFor a current view of OSG Production See: \nMonitoring Display\n\n\n\n\n\n\nWeekly Production Meetings\n\n\n\n\n4:00 PM Eastern (3:00 PM Central)\n\n\nJoin from PC, Mac, Linux, iOS or Android: \nhttps://IU.zoom.us/j/865253152\n\n\n(US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#", 
+            "text": "OSG Production\n\n\n\n\nWelcome to OSG Production \n\n\n\n\nOSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.\n\n\nLive OSG Production Statistics\n\n\nFor a current view of OSG Production See: \nMonitoring Display\n\n\nWeekly Production Meetings\n\n\n4:00 PM Eastern (3:00 PM Central)\nJoin from PC, Mac, Linux, iOS or Android: \nhttps://IU.zoom.us/j/865253152\n\n(US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#", 
             "title": "Home"
         }, 
         {
             "location": "/#osg-production", 
-            "text": "Welcome to OSG Production    OSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.    Current OSG Statistics\nFor a current view of OSG Production See:  Monitoring Display    Weekly Production Meetings   4:00 PM Eastern (3:00 PM Central)  Join from PC, Mac, Linux, iOS or Android:  https://IU.zoom.us/j/865253152  (US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#", 
+            "text": "Welcome to OSG Production    OSG Production is the culmination of many OSG efforts including testing, integration, services, support, operations, hardware, software, and security -- VO's get their jobs run, their data analyzed, and in so doing enable the advancement of science.", 
             "title": "OSG Production"
+        }, 
+        {
+            "location": "/#live-osg-production-statistics", 
+            "text": "For a current view of OSG Production See:  Monitoring Display", 
+            "title": "Live OSG Production Statistics"
+        }, 
+        {
+            "location": "/#weekly-production-meetings", 
+            "text": "4:00 PM Eastern (3:00 PM Central)\nJoin from PC, Mac, Linux, iOS or Android:  https://IU.zoom.us/j/865253152 \n(US Toll): +1 408-638-0968 or +1 646-558-8656, PIN 865-253-152#", 
+            "title": "Weekly Production Meetings"
         }
     ]
 }
