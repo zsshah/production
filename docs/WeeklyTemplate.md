@@ -22,7 +22,7 @@
 ## CMS (Krista)
 
 ## Grid Operations Center (Scott)
-  * [GOC Services Availability/Reliability](http://tinyurl.com/pre26vw)
+   * [GOC Services Availability/Reliability](http://tinyurl.com/pre26vw)
    * Current Status: [<img src="http://monitor.grid.iu.edu/availability/production_status.png">](http://monitor.grid.iu.edu/availability/production.html)
    * <a href="http://reports.grid.iu.edu/reports/">Reports current: <img src="http://steige.grid.iu.edu/steige/status_reports.png"></a>
    * [PerfSonar](http://maddash.aglt2.org/maddash-webui/index.cgi?dashboard=OSG%20Grid%20Operations%20Center%20Test%20Mesh%20Config) service
