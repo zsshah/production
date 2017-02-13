@@ -22,3 +22,6 @@ Are available at this [Link](WeeklyMinutes)
 
 For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.grid.iu.edu/bin/view/Production/WeeklyProductionMeetings)
 
+## Meeting Template
+
+[WeeklyTemplate](WeeklyTemplate)
