@@ -8,6 +8,8 @@ extra_css:
 
 pages:
 - Home: 'index.md'
+- WeeklyMinutes 'WeeklyMinutes.md'
+- WeeklyTemplate 'WeeklyTemplate.md'
 
 markdown_extensions:
   - admonition
