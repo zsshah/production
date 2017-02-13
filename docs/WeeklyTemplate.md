@@ -6,7 +6,7 @@
 
 ## Action/Significant Items: 
 
-## Attendees: Tim, Brian, Scott, Susan, Armen, Jeny, Ken, Kyle, Tanya, Krista
+## Attendees: 
 
 ## Apologies:
 
@@ -17,13 +17,13 @@
    * Job statistics for last week.     
 
 
-## FIFE - !FabrIc for Frontier Experiments (Tanya)
+## FIFE - FabrIc for Frontier Experiments (Tanya)
 
 ## CMS (Krista)
 
 ## Grid Operations Center (Scott)
   * [GOC Services Availability/Reliability](http://tinyurl.com/pre26vw)
-   * Current Status: [[http://monitor.grid.iu.edu/availability/production.html][<img src="http://monitor.grid.iu.edu/availability/production_status.png">]]
+   * Current Status: [<img src="http://monitor.grid.iu.edu/availability/production_status.png">](http://monitor.grid.iu.edu/availability/production.html)
    * <a href="http://reports.grid.iu.edu/reports/">Reports current: <img src="http://steige.grid.iu.edu/steige/status_reports.png"></a>
    * [[http://maddash.aglt2.org/maddash-webui/index.cgi?dashboard=OSG%20Grid%20Operations%20Center%20Test%20Mesh%20Config][PerfSonar]] service
    * <img src="http://gratiaweb1.grid.iu.edu/gratiastatic/today/osg_wall_hours.png"/>
