@@ -9,4 +9,20 @@
     </url>
     
 
+    
+    <url>
+     <loc>https://opensciencegrid.github.io/production/WeeklyMinutes/</loc>
+     <lastmod>2017-02-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://opensciencegrid.github.io/production/WeeklyTemplate/</loc>
+     <lastmod>2017-02-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>
