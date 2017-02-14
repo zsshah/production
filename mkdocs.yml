@@ -10,7 +10,8 @@ pages:
 - Home: 'index.md'
 - Weekly Minutes:
   - '14February2017': 'WeeklyMinutes/14Feb2017.md'
-- Weekly Template: 'WeeklyTemplate.md'
+- Weekly Template: 
+  - 'Template': 'WeeklyTemplate.md'
 
 markdown_extensions:
   - admonition
