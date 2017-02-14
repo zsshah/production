@@ -8,9 +8,9 @@ extra_css:
 
 pages:
 - Home: 'index.md'
-- WeeklyMinutes:
-  - 14February2017: WeeklyMinutes/14Feb2017.md
-- WeeklyTemplate: 'WeeklyTemplate.md'
+- Weekly Minutes:
+  - '14February2017': 'WeeklyMinutes/14Feb2017.md'
+- Weekly Template: 'WeeklyTemplate.md'
 
 markdown_extensions:
   - admonition
