@@ -13,6 +13,7 @@ pages:
   - '14 February 2017': 'WeeklyMinutes/14Feb2017.md'
 - Weekly Template: 
   - 'Template': 'WeeklyTemplate.md'
+  - 'A': 'WeeklyTemplate.md'
 
 markdown_extensions:
   - admonition
