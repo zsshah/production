@@ -1,3 +1,5 @@
 # 2017
 
-- [14 Febuary 2017](WeeklyMinutes/14Feb2017.md)
+- [21 February 2017](WeeklyMinutes/21Feb2017.md)
+- [14 February 2017](WeeklyMinutes/14Feb2017.md)
+- [7 February 2017](WeeklyMinutes/7Feb/2017.md)
