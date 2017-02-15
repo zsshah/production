@@ -10,6 +10,7 @@ pages:
 - Home: 'index.md'
 - Weekly Minutes:
   - '14February2017': 'WeeklyMinutes/14Feb2017.md'
+  - '21February2017': 'WeeklyMinutes/21Feb2017.md'
 - Weekly Template: 
   - 'Template': 'WeeklyTemplate.md'
 
