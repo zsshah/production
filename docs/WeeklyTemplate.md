@@ -37,6 +37,6 @@
 ## Release (Tim T.)
 ### Release Schedule
 
-## Security
+## Security (Susan)
 
 ## Communication (Kyle)
