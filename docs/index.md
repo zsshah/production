@@ -41,4 +41,4 @@ For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.g
 
 ## Test Adding non-image file
 
-[Jetstream Presentation](files/Jetstream_XSEDE15-2015_jul_28.pptx)
+[Jetstream Presentation](files/Jetstream_XSEDE15-2015_jul_28.pdf)
