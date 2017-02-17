@@ -41,4 +41,4 @@ For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.g
 
 ## Test Image Add
 
-!("https://github.com/opensciencegrid/production/files/Datastore_Logical_Diagram.png")
+![Datastore Logical Diagram]("https://github.com/opensciencegrid/production/files/Datastore_Logical_Diagram.png")
