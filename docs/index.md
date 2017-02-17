@@ -38,3 +38,7 @@ For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.g
 ## Other OSG Meetings and Events
 
 [OSG Indico Event Site](https://indico.fnal.gov/categoryDisplay.py?categId=86)
+
+## Test Image Add
+
+   * <img src="https://github.com/opensciencegrid/production/files/Datastore_Logical_Diagram.png">
