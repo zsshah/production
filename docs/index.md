@@ -29,4 +29,4 @@ For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.g
 
 ## Other OSG Meetings and Events
 
-[OSG Indico Event Site](http://indico.fnal.gov/categoryDisplay.py?categId=77][OSG)
+[OSG Indico Event Site](https://indico.fnal.gov/categoryDisplay.py?categId=86][OSG)
