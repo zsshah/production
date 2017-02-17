@@ -39,6 +39,4 @@ For Minutes Prior to 12-February-2017 Please Visit the [Archive](https://twiki.g
 
 [OSG Indico Event Site](https://indico.fnal.gov/categoryDisplay.py?categId=86)
 
-## Test Image Add
-
-![Datastore Logical Diagram]("../files/Datastore_Logical_Diagram.png")
+## Test Adding non-image file
