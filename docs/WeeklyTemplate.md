@@ -10,12 +10,12 @@
 
 ## Apologies:
 
-## Atlas (Armen & Xin)  
-
+## Atlas (Armen & Xin)
    * General production status. 
-      
-   * Job statistics for last week.     
-
+      * USATLAS total production over the past week was overall stable, at the average level of 60-70K running job slots. The level was below normal level on Mar.28-30 as BNL was in downtime for software and network upgrade.
+   * Job statistics for last week.
+      * gratia reported 1.4M jobs, with 4.1M walltime hours, and 91% cpu/walltime ratio (single core job)
+      * ATLAS dashboard reported 1.7M real jobs for last week (among them 10k ran on opportunistic OSG resources)
 
 ## FIFE - FabrIc for Frontier Experiments (Tanya)
 
