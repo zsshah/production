@@ -15,7 +15,9 @@ OSG Production is the culmination of many OSG efforts including testing, integra
 # Live OSG Production Statistics
 
 For a current view of OSG Production see the [Monitoring Display](http://display.grid.iu.edu/)
-   * <img src="http://gratiaweb1.grid.iu.edu/gratiastatic/today/osg_wall_hours.png"/>
+   * <img src="https://gracc.opensciencegrid.org/dashboard/snapshot/bqz952SQ7l1nGud9Xq30vIVY3Rb0xqso
+
+"/>
 
 # Weekly Production Meetings
 
