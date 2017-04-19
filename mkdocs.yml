@@ -9,6 +9,13 @@ extra_css:
 pages:
 - Home: 'index.md'
 - Weekly Minutes:
+  - '18 April 2017': 'WeeklyMinutes/18April2017'
+  - '11 April 2017': 'WeeklyMinutes/11April2017'
+  - '4 April 2017': 'WeeklyMinutes/4April2017'
+  - '28 March 2017': 'WeeklyMinutes/28March2017'
+  - '21 March 2017': 'WeeklyMinutes/21March2017'
+  - '14 March 2017': 'WeeklyMinutes/14March2017'
+  - '7 March 2017 Canceled' 
   - '28 Februray 2017': 'WeeklyMinutes/28Feb2017.md'
   - '21 February 2017': 'WeeklyMinutes/21Feb2017.md'
   - '14 February 2017': 'WeeklyMinutes/14Feb2017.md'
