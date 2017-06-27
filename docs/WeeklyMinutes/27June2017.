@@ -21,8 +21,11 @@
    * [GOC Services Availability/Reliability](http://tinyurl.com/pre26vw)
    * [Current Status](http://monitor.grid.iu.edu/availability/production.html)
    * [PerfSonar](http://maddash.aglt2.org/maddash-webui/index.cgi?dashboard=OSG\%20Grid\%20Operations\%20Center\%20Test\%20Mesh\%20Config)
-   * <img src="http://steige.grid.iu.edu/steige/19Jun2017.osg-flock.png" width='630' height='390'  /><br>
-   
+   * <img src="http://steige.grid.iu.edu/steige/26Jun2017.osg-flock.png" width='630' height='390'  /><br>
+   * [Production release](http://osggoc.blogspot.com/2017/06/goc-service-update-tuesday-june-27th-at.html)
+      * voms-admin update, OS updates completed
+      * OASIS modification deferred, next cycle
+      
 ## Production Support (Ken)   
    
 ## Software (Brian)
